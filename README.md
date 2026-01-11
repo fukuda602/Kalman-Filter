@@ -169,7 +169,7 @@ VisualStadio 2022
 ubuntu22.04
 
 ## 使用ライブラリ
-OpenCV
+OpenCV ver4.5.4 (Apacheライセンスver2.0：https://github.com/opencv/opencv/blob/master/LICENSE)
 
 
 

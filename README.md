@@ -21,7 +21,9 @@ https://github.com/user-attachments/assets/b746d174-4854-4c29-a87d-c329235ae9f1
 ### 状態方程式
 動作するロボットは等速で一方向のみに移動すると仮定した時の状態方程式は以下ようになる．
 
-x_k \in \mathbb{R}
+$$
+x_k = x_{k-1} + u + w_k
+$$
 
 
 ## 開発言語
